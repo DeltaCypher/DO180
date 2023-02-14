@@ -2,10 +2,11 @@
 <html>
 <body>
 
-<h1> </h1>
-
 <?php
-echo "HAPPY VELENTINE'S DAY DEAR";
+$string= "HAPPY VELENTINE'S DAY DEAR";
+echo $string."<br>";
+ echo "<br>";
+echo '<span style="color: red; font-size: 50px;">'; 
 ?>
 
 </body>
