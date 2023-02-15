@@ -3,8 +3,7 @@
 <body>
 
 <?php
-$color = "red";
-echo "HAPPY VELENTINE'S DAY DEAR" . $color . "<br>"; 
+echo "HAPPY VELENTINE'S DAY DEAR <br>"; 
 ?>
 
 </body>
